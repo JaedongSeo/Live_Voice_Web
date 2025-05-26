@@ -83,12 +83,7 @@ socket.on('audio_chunk', (blob) => {
 - 음성 명령 시스템으로 확장
 - 텍스트 요약 및 분석 기능 추가
 
-## 🌐 데모 및 포트폴리오
+## 🌐 Colab 주소
 
-- **데모 URL**: [https://your-demo-url.com](https://your-demo-url.com)
-- **Github Repo**: [https://github.com/yourname/speech-recognition-app](https://github.com/yourname/speech-recognition-app)
-- **보고서 PDF**: [`report.pdf`](./report.pdf)
-
+https://colab.research.google.com/drive/1nVLTtgvtf9HWiLrm1zoCgW3rpHTAnyhy?usp=sharing
 ---
-
-**본 프로젝트는 Whisper 기반 실시간 음성 인식의 이해를 심화하고, 풀스택 기반의 웹 애플리케이션 설계 역량을 향상시키기 위해 수행되었습니다.**
